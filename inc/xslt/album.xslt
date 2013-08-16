@@ -15,16 +15,17 @@
 			<head>
 				<meta charset="utf-8" />
 				<title>History - Photo Album</title>
-				<script src="../inc/js/jquery-1.7.2.min.js"></script>
+				<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 				<!-- Photo -->
 				<script src="../inc/js/jquery.colorbox-min.js"></script>
 				<link  href="../inc/css/colorbox.css" rel="stylesheet" media="screen" />
 				<!-- Map -->
-				<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-				<script>strMapEngine = 'googlev3';</script>
+				<script src="http://leaflet.cloudmade.com/dist/leaflet.js" type="text/javascript"></script>
+				<link href="http://leaflet.cloudmade.com/dist/leaflet.css" media="all" rel="stylesheet" type="text/css" />				
+				<script>strMapEngine = 'leaflet';</script>
 				<script src="../inc/js/mxn-min.js"></script>
 				<script src="../inc/js/mxn.core-min.js"></script>
-				<script src="../inc/js/mxn.googlev3.core-min.js"></script>
+				<script src="../inc/js/mxn.leaflet.core-min.js"></script>
 				<!--script src="../inc/js/mapstraction.js"></script-->
 				<script src="../inc/js/global.js"></script>
 				<script src="../inc/js/album.js"></script>

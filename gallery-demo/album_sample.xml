@@ -30,14 +30,14 @@
 		<thumb_caption>Gingerbread</thumb_caption>
 	</photo>
 	<photo id="3">
-		<filename>2004-01-04-01.jpg</filename>
+		<filename>2013-dark-angel.jpg</filename>
 		<geo>
 			<lat>49.3</lat>
-			<lon>-123.016667</lon>
+			<lon>-123.05</lon>
 		</geo>
-		<photo_city>North Vancouver, BC</photo_city>
-		<photo_loc>Home</photo_loc>
-		<thumb_caption>Gingerbread</thumb_caption>
+		<photo_city>Vancouver, BC</photo_city>
+		<photo_loc>School</photo_loc>
+		<thumb_caption>Dark Angel</thumb_caption>
 	</photo>
 	<video id="4">
 		<filename>2012-fireplace.mp4</filename>
@@ -52,7 +52,7 @@
 			<lon>-123.1</lon>
 		</geo>
 	</video>
-	<photo id="3">
+	<photo id="5">
 		<filename>2005-07-30-01.jpg</filename>
 		<geo>
 			<lat>49.15</lat>
