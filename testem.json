@@ -1,0 +1,9 @@
+{
+    "framework": "mocha",
+    "launch_in_dev": ["chrome, firefox"],
+    "src_files": [
+    	"expect.js",
+    	"test/test-*.js",
+    	"hello.js"
+    ]
+}
